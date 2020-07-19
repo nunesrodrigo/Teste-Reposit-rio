@@ -1,2 +1,2 @@
 # Teste Repositório
- Primeiro repositório GIT
+ Primeiro repositório GitHub
